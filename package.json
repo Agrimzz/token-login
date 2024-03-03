@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@mantine/core": "^7.6.1",
+    "@mantine/form": "^7.6.1",
     "@mantine/hooks": "^7.6.1",
+    "@mantine/notifications": "^7.6.1",
     "@phosphor-icons/react": "^2.0.15",
     "next": "14.1.0",
     "react": "^18",
